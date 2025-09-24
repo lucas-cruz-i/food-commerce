@@ -1,6 +1,6 @@
 🍽️ Projeto: Food Commerce / Restaurante
 
-Este projeto é uma aplicação de e-commerce para restaurantes, onde o usuário pode visualizar os produtos, adicionar itens ao carrinho, verificar os detalhes do pedido e finalizar a compra de forma prática, com envio direto pelo WhatsApp.
+Este projeto é uma aplicação de food-commerce para restaurantes, onde o usuário pode visualizar os produtos, adicionar itens ao carrinho, verificar os detalhes do pedido e finalizar a compra de forma prática, com envio direto pelo WhatsApp.
 Foi desenvolvido utilizando HTML, CSS, JavaScript e estilizado com Tailwind CSS.
 
 📁 Funcionalidades
